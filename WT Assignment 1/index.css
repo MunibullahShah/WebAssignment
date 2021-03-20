@@ -1,0 +1,61 @@
+.bodydiv{
+    background-color:whitesmoke;
+    margin-left:10% ;
+    margin-right:10% ;
+    margin-bottom: 35px;
+    
+}
+
+
+#maintabletrtd1{padding: 40px;
+    padding-top: 25px;
+    padding-bottom: 83px;
+width: 65%;
+}
+
+.p{
+    font-size: 15px;
+    font-weight: lighter;
+}
+
+h1{font-family: verdana;
+font-size: smaller;
+font-weight: bold;}
+
+.img{
+    width: 238px;
+    height: 198px;
+}
+
+#maintabletrtd2{
+   vertical-align: top;
+   padding-left: 15px;
+   padding-top: 25px;
+   width: 30%;
+   font-family: verdana;
+   font-size: smaller;
+   
+   
+}
+
+.linkdiv{
+    margin-bottom: 10px;
+    font-size: 15%;
+    font-family: verdana;
+    
+}
+
+a{color: red;
+    font-family: Verdana;
+    
+    
+   
+}
+
+
+
+footer{
+    padding: 2em 3em;
+    
+  }
+
